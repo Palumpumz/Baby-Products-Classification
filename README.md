@@ -5,12 +5,11 @@ In this assignment, I experience with bag of words and ngram representations, wi
 
 Read Me!
 
-1) I use the Visual Studio Code to write and run code, therefore I recommend you to use the same.
-2) There is a trainData.dat in a folder already. 
+1) There is a trainData.dat in a folder already. 
 If you want to use different train data files, please make sure the new file has the same name as I use.
 It should be a dat file and should be saved in the same folder as the code file.
 The names I used in my code is trainData.dat
-3) Make sure you install numpy and scikit-learn.
-4) Run the code through terminal.
+2) Make sure you install numpy and scikit-learn.
+3) Run the code through terminal.
 
 Thank you for reading ReadMe.
